@@ -70,10 +70,10 @@ const PokemonDetails = ({pokemon}) => {
             </tr>
             <tr>
               <td>
-                <p>{pokemon.height}</p>
+                <p>{pokemon.height}0 cm</p>
               </td>
               <td>
-                <p>{pokemon.weight}</p>
+                <p>{pokemon.weight}00 g</p>
               </td>
             </tr>
           </tbody>
